@@ -1,0 +1,2 @@
+# Aprendizados da semana
+Esta primeira semana de **integração** na Labenu, me **surpreendeu muito**. Aprendi sobre algumas ferramentas que serão de uso contínuo, a parte do **terminal** e **git/github** foram demais, só preciso me familiarizar mais, o **VSCode** que é uma ótima ferramenta e as palestras que tive muita paixão em estar nelas. ***OBRIGADO LABENU***
