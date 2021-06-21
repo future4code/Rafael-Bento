@@ -18,8 +18,7 @@ function imprimeMensagem() {
 
 // EXERCÍCIO 01
 function calculaAreaRetangulo() {
-  // implemente sua lógica aqui
-
+ 
 }
 
 // EXERCÍCIO 02
