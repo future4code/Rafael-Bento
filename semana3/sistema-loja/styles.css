@@ -1,0 +1,14 @@
+h1, h2, h3, h4, h5, h6{
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+}
+p{
+    background-color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+div{
+    margin: 50px;
+}
+body{
+    background-color: rgb(154, 177, 212);
+}
