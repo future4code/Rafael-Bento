@@ -1,0 +1,184 @@
+
+/* Página Geral */
+
+* {
+   background-color: rgb(129, 192, 212);
+}
+
+p {
+    cursor: pointer;
+}
+ 
+#botao { 
+
+    text-align: center;
+    margin: 0;
+    background: yellow;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%) 
+
+}
+
+/* Página Princpal */
+
+#container1 h1 {
+    
+    margin: 0;
+    background: yellow;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+
+}
+
+#container2 h3 {
+    
+        margin: 0;
+        background: yellow;
+        position: absolute;
+        top: 15%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+    }
+
+#container3 h3 {
+    
+        margin: 0;
+        background: yellow;
+        position: absolute;
+        top: 20%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+    }
+
+#container4 p {
+    
+        margin: 0;
+        background: greenyellow;
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+    }
+
+ #container5 ul {
+    
+        margin: 0;
+        background: greenyellow;
+        position: absolute;
+        top: 35%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+    }
+
+    #container6 p {
+    
+        margin: 0;
+        background: rgb(255, 123, 47);
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+    }
+
+ #container7 ul {
+    
+        margin: 0;
+        background: rgb(255, 123, 47);
+        position: absolute;
+        top: 45%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+    }
+
+    
+    #container8 p {
+    
+        margin: 0;
+        background: rgb(39, 189, 189);
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+    }
+
+ #container9 ul {
+    
+        margin: 0;
+        background: rgb(39, 189, 189);
+        position: absolute;
+        top: 55%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+    }
+        
+    #container10 p {
+    
+        margin: 0;
+        background: rgb(223, 30, 110);
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+    }
+
+ #container11 ul {
+    
+        margin: 0;
+        background: rgb(223, 30, 110);
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+    }
+/* galeria de projetos */
+
+#containerh1 h1 {
+    
+    margin: 0;
+    background: yellow;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+
+}
+
+
+#containerh2 h2 {
+    
+    padding: 50;
+    background: red;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+
+}
+
+#containerul ul {
+    
+    margin: 10;
+    background: green;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%) 
+
+}
